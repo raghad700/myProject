@@ -1,1 +1,1 @@
-# myProject
+	Extracting the chains of transmission of Sahih Al-Bukhari- the goal of the work is to be able to separate the hadith from its text and obtain the sequence of names expressing each chain of transmission within Sahih Al-Bukhari. We took the chain of transmission section and processed it to obtain the sequence of names using NLP and several python libraries.
